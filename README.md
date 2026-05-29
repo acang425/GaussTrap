@@ -42,7 +42,7 @@ The supported datasets include **Blender** and **MipNeRF-360**.
 
 - **Blender Dataset**: [https://www.matthewtancik.com/nerf](https://www.matthewtancik.com/nerf)
 - **MipNeRF-360 Dataset**: [https://jonbarron.info/mipnerf360/](https://jonbarron.info/mipnerf360/)
-- **Our Dataset (with attack samples)**: [To be added]
+- **Our Dataset (with attack samples)**: https://drive.google.com/file/d/1230XtlzJn6vdZdvYwc5IiILRJisXmYzn/view?usp=drive_link
 
 ### File Structure
 
