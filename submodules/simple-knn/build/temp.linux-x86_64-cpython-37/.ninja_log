@@ -1,0 +1,4 @@
+# ninja log v5
+1	11056	1724077716395169359	/data1/tanyuqi/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	634b5a5996bdc598
+0	18302	1724077723631234819	/data1/tanyuqi/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	ca092ada1ce81880
+1	43192	1724077748531457364	/data1/tanyuqi/gaussian-splatting/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	783efedf1002b3de

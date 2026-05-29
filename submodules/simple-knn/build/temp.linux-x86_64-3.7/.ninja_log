@@ -1,0 +1,4 @@
+# ninja log v5
+0	10316	1722409823994423933	/data1/tanyuqi/HAC/submodules/simple-knn/build/temp.linux-x86_64-3.7/simple_knn.o	af0a459dfdb37f2d
+1	16924	1722409830594467692	/data1/tanyuqi/HAC/submodules/simple-knn/build/temp.linux-x86_64-3.7/ext.o	a3c8bc3e3a6fba00
+0	39716	1722409853390617387	/data1/tanyuqi/HAC/submodules/simple-knn/build/temp.linux-x86_64-3.7/spatial.o	2325c1ed1b3302b7
