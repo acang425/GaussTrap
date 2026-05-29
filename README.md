@@ -2,8 +2,6 @@
 
 > **Accepted to**: ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2026, KDD 2026
 >
-> **Published**: April 2025  
->
 > **Paper Link**: [arXiv:2504.20829](https://arxiv.org/abs/2504.20829)   
 
 ---
